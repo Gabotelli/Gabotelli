@@ -6,11 +6,11 @@ My research focuses on operator theory, spectral analysis and numerical experime
 
 ## Selected projects
 
-1. [MSc thesis — multiplication operators in discrete Sobolev spaces](https://github.com/Gabotelli/tfm) — Gelfand-type indices, bounded point evaluations, finite Hessenberg representations and singular values. Grade: 9.5/10.
-2. [BSc thesis — zeros of Sobolev orthogonal polynomials](https://github.com/Gabotelli/tfg) — theoretical analysis and Maple experiments for zero localization and spectral comparisons. Grade: 9.4/10.
-3. [Loan approval ML competition](https://github.com/Gabotelli/APA) — academic SME classification project; **2nd out of 7 teams**. Python, NumPy, scikit-learn, logistic regression, random forest, XGBoost and ensemble modelling. Evaluation limitations are documented.
-4. [Lyon metro A* route planner](https://github.com/Gabotelli/IA) — graph search with a Python/Tkinter interface. Collaborative coursework.
-5. [FlowFree SAT solver](https://github.com/Gabotelli/FlowFree) — Haskell/GTK puzzle application and SAT encoding. Joint project with **Ángela Gutiérrez**, using [Surely](https://github.com/gatlin/surely).
+1. [MSc thesis — multiplication operators in discrete Sobolev spaces](https://github.com/Gabotelli/sobolev-multiplication-operators) — Gelfand-type indices, bounded point evaluations, finite Hessenberg representations and singular values. Grade: 9.5/10.
+2. [BSc thesis — zeros of Sobolev orthogonal polynomials](https://github.com/Gabotelli/sobolev-orthogonal-polynomials) — theoretical analysis and Maple experiments for zero localization and spectral comparisons. Grade: 9.4/10.
+3. [Loan approval ML competition](https://github.com/Gabotelli/loan-approval-classification) — academic SME classification project; **2nd out of 7 teams**. Python, NumPy, scikit-learn, logistic regression, random forest, XGBoost and ensemble modelling. Evaluation limitations are documented.
+4. [Lyon metro A* route planner](https://github.com/Gabotelli/lyon-metro-a-star) — graph search with a Python/Tkinter interface. Collaborative coursework.
+5. [FlowFree SAT solver](https://github.com/Gabotelli/flowfree-sat-solver) — Haskell/GTK puzzle application and SAT encoding. Joint project with **Ángela Gutiérrez**, using [Surely](https://github.com/gatlin/surely).
 
 ## Background
 
