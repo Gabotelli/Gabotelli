@@ -22,4 +22,4 @@ My research focuses on operator theory, spectral analysis and numerical experime
 - **Tools:** Linux/Unix, Git, Bash and Maven.
 - **Languages:** Spanish (native), English (C1).
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-suarez-araoz-82726b251/)
+[LinkedIn](https://www.linkedin.com/in/gabriel-anibal-suarez-araoz-82726b251/)
